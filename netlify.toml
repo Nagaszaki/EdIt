@@ -1,0 +1,3 @@
+[build]
+  command = "npm i mysql express && npm run build"
+  functions = "functions"
